@@ -1,33 +1,16 @@
-# Welcome to tursodatabase!
-
-![tursodatabase](https://github.com/tursodatabase/tursodatabase/raw/main/logo.png)
 
 ## About Us
 
-Welcome to the Data Edge
+Turso is an edge database, built by the creators of [libSQL](github.com/libsql), an Open Contribution fork of SQLite.
 
-## Featured Repositories
+Turso allows you to develop locally and deploy globally to many locations around the world.
+Replication is easy and affordable, and it is fully controllable through an API.
 
-### Repository 1
+## Open Source
 
-[![turso-cli1](https://github.com/tursodatabase/repo1/raw/main/screenshot.png)](https://github.com/chiselstrike/turso-cli)
-
-The Turso CLI.
-
-### Repository 2
-
-[![turso-docs]](https://github.com/chiselstrike/tursod-docs)
-
-The Turso Documentation
-
-## Other Relevant Repositories
-
-Turso is built with libSQL.
+The Turso database is fully Open Source, and we offer a managed service. However, the core code of the database doesn't live in this organization, but
+in the [libSQL organization] instead. Relevant repositories:
 
 - [libSQL core](https://github.com/libsql/libsql): libSQL, an Open Contribution fork of SQLite. It can be used as a library, but add features like WASM User Defined Functions, and Write-Ahead-Log virtualization, which we use for data replication.
 - [libSQL server](https://github.com/libsql/sqld): a server-mode service for libSQL. 
-
-## Join the Community
-
-Join our Discord community
 
