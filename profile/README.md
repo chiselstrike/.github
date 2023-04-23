@@ -14,9 +14,9 @@ The Turso database is fully Open Source, and we [offer a managed service](https:
 in the [libSQL organization](github.com/libsql) instead. Relevant repositories:
 
 <a href="https://github.com/libsql/libsql">
-  <img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=libsql" />
+  <img align="center" style="height:100px;width=200px" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=libsql" />
 </a>
 <a href="https://github.com/libsql/sqld">
-  <img align="center" style="height:150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=sqld" />
+  <img align="center" style="height:100px;width=200px" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=sqld" />
 </a>
 
